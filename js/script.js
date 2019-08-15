@@ -13,9 +13,6 @@ console.log('I love to cook');
 alert('Yo, welcome');
 
 
-// alert('OMG I like' + question + 'too!')console.log(alert);
-
-
 function grabElementAndSpitOutValue () {
     //get element from index
     const MAIN_DIV.innerHTML = 'hey, I m  here';
