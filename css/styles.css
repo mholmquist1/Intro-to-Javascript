@@ -1,0 +1,23 @@
+.temperature {
+    width:100%;
+}
+
+h1 {
+    text-align:center;
+}
+
+#celcius {
+    text-align:center;
+}
+
+
+#fahrenheit {
+    text-align:center;
+}
+
+h3 {
+    height:200px;
+    width:100%;
+    text-align:center;
+    border:black;
+}
